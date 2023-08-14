@@ -42,7 +42,7 @@ For detailed results, please refer to the spreadsheet [here](https://docs.google
 You need an OpenAI API key to run this pipeline. You can paste your API key into `pipeline.config.py`.
 
 ```shell
-cd lm-kbc-2023
+cd LLMKE
 ```
 
 ```shell
