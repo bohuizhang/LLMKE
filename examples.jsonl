@@ -1,0 +1,100 @@
+{"SubjectEntity": "Ford Motor Company", "Relation": "CompanyHasParentOrganisation", "ObjectEntities": [""]}
+{"SubjectEntity": "Ford Germany", "Relation": "CompanyHasParentOrganisation", "ObjectEntities": ["Ford Motor Company"]}
+{"SubjectEntity": "Aimco", "Relation": "CompanyHasParentOrganisation", "ObjectEntities": [""]}
+{"SubjectEntity": "AkzoNobel", "Relation": "CompanyHasParentOrganisation", "ObjectEntities": [""]}
+{"SubjectEntity": "China Eastern Airlines", "Relation": "CompanyHasParentOrganisation", "ObjectEntities": [""]}
+{"SubjectEntity": "Taiwan", "Relation": "CountryBordersCountry", "ObjectEntities": ["Japan", "People's Republic of China", "Philippines"]}
+{"SubjectEntity": "Bahrain", "Relation": "CountryBordersCountry", "ObjectEntities": ["Iran", "Saudi Arabia"]}
+{"SubjectEntity": "Iran", "Relation": "CountryBordersCountry", "ObjectEntities": ["Turkey", "Azerbaijan", "Bahrain", "Armenia", "Iraq", "Kuwait", "Oman", "Pakistan", "Qatar", "Saudi Arabia", "Turkmenistan", "United Arab Emirates", "Afghanistan"]}
+{"SubjectEntity": "Benin", "Relation": "CountryBordersCountry", "ObjectEntities": ["Togo", "Burkina Faso", "Niger", "Nigeria"]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "CountryBordersCountry", "ObjectEntities": ["Indonesia", "Australia", "Federated States of Micronesia"]}
+{"SubjectEntity": "Egypt", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Arabic"]}
+{"SubjectEntity": "Peru", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Spanish", "Aymara", "Quechua"]}
+{"SubjectEntity": "Singapore", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["English", "Tamil", "Malay", "Standard Mandarin"]}
+{"SubjectEntity": "South Sudan", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["English", "Arabic"]}
+{"SubjectEntity": "Jordan", "Relation": "CountryHasOfficialLanguage", "ObjectEntities": ["Arabic"]}
+{"SubjectEntity": "Jens Stoltenberg", "Relation": "PersonHasNumberOfChildren", "ObjectEntities": ["2"]}
+{"SubjectEntity": "Maria Zakharova", "Relation": "PersonHasNumberOfChildren", "ObjectEntities": ["1"]}
+{"SubjectEntity": "Jens Stoltenberg", "Relation": "PersonHasNumberOfChildren", "ObjectEntities": ["2"]}
+{"SubjectEntity": "Maria Zakharova", "Relation": "PersonHasNumberOfChildren", "ObjectEntities": ["1"]}
+{"SubjectEntity": "Claudia Gerini", "Relation": "PersonHasNumberOfChildren", "ObjectEntities": ["2"]}
+{"SubjectEntity": "Luis Racionero", "Relation": "PersonHasPlaceOfDeath", "ObjectEntities": ["Barcelona"]}
+{"SubjectEntity": "Gennady Vasilyev", "Relation": "PersonHasPlaceOfDeath", "ObjectEntities": ["Ulan-Ude"]}
+{"SubjectEntity": "James L. Brooks", "Relation": "PersonHasPlaceOfDeath", "ObjectEntities": [""]}
+{"SubjectEntity": "Christoph Eschenbach", "Relation": "PersonHasPlaceOfDeath", "ObjectEntities": [""]}
+{"SubjectEntity": "Helga Reidemeister", "Relation": "PersonHasPlaceOfDeath", "ObjectEntities": ["Berlin"]}
+{"SubjectEntity": "Jon Elster", "Relation": "PersonHasProfession", "ObjectEntities": ["professor", "economist", "political scientist", "sociologist", "philosopher"]}
+{"SubjectEntity": "Panamarenko", "Relation": "PersonHasProfession", "ObjectEntities": ["photographer", "poet", "artist", "graphic designer", "painter", "sculptor", "graphic artist", "drawer", "conceptual artist"]}
+{"SubjectEntity": "Judit T\u00f3th", "Relation": "PersonHasProfession", "ObjectEntities": ["actor"]}
+{"SubjectEntity": "Einar \u00d8kland", "Relation": "PersonHasProfession", "ObjectEntities": ["writer", "poet", "psychologist", "children's writer"]}
+{"SubjectEntity": "Karl R\u00fchringer", "Relation": "PersonHasProfession", "ObjectEntities": ["Catholic priest"]}
+{"SubjectEntity": "Haruma Miura", "Relation": "PersonPlaysInstrument", "ObjectEntities": ["guitar", "voice"]}
+{"SubjectEntity": "David Archuleta", "Relation": "PersonPlaysInstrument", "ObjectEntities": ["piano", "upright piano", "voice"]}
+{"SubjectEntity": "Dan Croll", "Relation": "PersonPlaysInstrument", "ObjectEntities": ["guitar"]}
+{"SubjectEntity": "Minako Kotobuki", "Relation": "PersonPlaysInstrument", "ObjectEntities": ["keyboard instrument", "voice"]}
+{"SubjectEntity": "Fiuk", "Relation": "PersonPlaysInstrument", "ObjectEntities": ["guitar", "voice"]}
+{"SubjectEntity": "Andreas Khol", "Relation": "PersonSpeaksLanguage", "ObjectEntities": ["French", "German", "Italian", "English"]}
+{"SubjectEntity": "Anna Kuligowska-Korzeniewska", "Relation": "PersonSpeaksLanguage", "ObjectEntities": ["Polish"]}
+{"SubjectEntity": "Hans W. Gei\u00dfend\u00f6rfer", "Relation": "PersonSpeaksLanguage", "ObjectEntities": ["German"]}
+{"SubjectEntity": "Prabhas Kumar Choudhary", "Relation": "PersonSpeaksLanguage", "ObjectEntities": ["Hindi", "Maithili"]}
+{"SubjectEntity": "Vladimir Obraztsov", "Relation": "PersonSpeaksLanguage", "ObjectEntities": ["Russian"]}
+{"SubjectEntity": "Zilupe", "Relation": "RiverBasinsCountry", "ObjectEntities": ["Russia", "Belarus", "Latvia"]}
+{"SubjectEntity": "Blue Nile", "Relation": "RiverBasinsCountry", "ObjectEntities": ["Ethiopia"]}
+{"SubjectEntity": "Karasu", "Relation": "RiverBasinsCountry", "ObjectEntities": ["Turkey"]}
+{"SubjectEntity": "Orne", "Relation": "RiverBasinsCountry", "ObjectEntities": ["France"]}
+{"SubjectEntity": "Whitemouth River", "Relation": "RiverBasinsCountry", "ObjectEntities": ["Canada"]}
+{"SubjectEntity": "Tehran", "Relation": "SeriesHasNumberOfEpisodes", "ObjectEntities": ["16"]}
+{"SubjectEntity": "Funny or Die Presents", "Relation": "SeriesHasNumberOfEpisodes", "ObjectEntities": ["22"]}
+{"SubjectEntity": "Earthsea", "Relation": "SeriesHasNumberOfEpisodes", "ObjectEntities": ["2"]}
+{"SubjectEntity": "If Only, season 1", "Relation": "SeriesHasNumberOfEpisodes", "ObjectEntities": ["8"]}
+{"SubjectEntity": "While I Was Away", "Relation": "SeriesHasNumberOfEpisodes", "ObjectEntities": ["6"]}
+{"SubjectEntity": "Apure", "Relation": "StateBordersState", "ObjectEntities": ["T\u00e1chira", "Barinas State", "Boyac\u00e1 Department", "Bol\u00edvar", "Gu\u00e1rico", "Arauca Department", "Norte de Santander Department", "Vichada Department"]}
+{"SubjectEntity": "Hesse", "Relation": "StateBordersState", "ObjectEntities": ["Bavaria", "Baden-W\u00fcrttemberg", "Lower Saxony", "North Rhine-Westphalia", "Rhineland-Palatinate", "Thuringia"]}
+{"SubjectEntity": "Siem Reap Province", "Relation": "StateBordersState", "ObjectEntities": ["Banteay Meanchey Province", "Kampong Thom Province", "Preah Vihear Province", "Oddar Meanchey Province", "Battambang Province", "Pursat Province"]}
+{"SubjectEntity": "Kanchanaburi", "Relation": "StateBordersState", "ObjectEntities": ["Uthai Thani", "Suphan Buri", "Tak", "Nakhon Pathom", "Ratchaburi"]}
+{"SubjectEntity": "City Municipality of Celje", "Relation": "StateBordersState", "ObjectEntities": ["La\u0161ko Municipality", "Municipality of \u017dalec", "Municipality of \u0160tore", "Municipality of Dobrna", "Municipality of Vojnik", "\u0160entjur Municipality"]}
+{"SubjectEntity": "Indochine", "Relation": "BandHasMember", "ObjectEntities": ["St\u00e9phane Sirkis", "Nicola Sirkis", "Boris Jardel", "Dimitri Bodiansky", "Dominique Nicolas", "Fran\u00e7ois Matuszenski", "Fran\u00e7ois Soulier", "Marc \u00c9liard", "Olivier G\u00e9rard", "Ludwig Dahlberg", "Arnaud Devos"]}
+{"SubjectEntity": "Relient K", "Relation": "BandHasMember", "ObjectEntities": ["Ethan Luck", "Matt Hoopes", "Matt Thiessen"]}
+{"SubjectEntity": "SM Town", "Relation": "BandHasMember", "ObjectEntities": ["Tiffany Young", "Kangta", "Kim Jong-hyun", "Byun Baek-hyun", "Park Chan-yeol", "Kai", "Oh Se-hun", "Xiumin", "D.O.", "Chen", "Ten"]}
+{"SubjectEntity": "The Clash", "Relation": "BandHasMember", "ObjectEntities": ["Joe Strummer", "Mick Jones", "Paul Simonon", "Terry Chimes", "Topper Headon", "Keith Levene"]}
+{"SubjectEntity": "Famntak", "Relation": "BandHasMember", "ObjectEntities": ["Anders Larsen", "Jostein Ansnes", "Tone S\u00f8yset D\u00f8ving", "Trygve Br\u00f8ske"]}
+{"SubjectEntity": "Rome", "Relation": "CityLocatedAtRiver", "ObjectEntities": ["Aniene", "Tiber"]}
+{"SubjectEntity": "Ichikawa", "Relation": "CityLocatedAtRiver", "ObjectEntities": ["Edo River", "Ky\u016b-Edo River"]}
+{"SubjectEntity": "Ara\u00e7atuba", "Relation": "CityLocatedAtRiver", "ObjectEntities": ["Tiet\u00ea River", "Bagua\u00e7u River"]}
+{"SubjectEntity": "Dresden", "Relation": "CityLocatedAtRiver", "ObjectEntities": ["Elbe", "Wei\u00dferitz", "Prie\u00dfnitz", "Lockwitzbach", "Kaitzbach", "Lausenbach"]}
+{"SubjectEntity": "K\u014dfu", "Relation": "CityLocatedAtRiver", "ObjectEntities": ["Nigori River", "Fuefuki River", "Arakawa River"]}
+{"SubjectEntity": "Lu\u00eds Figo", "Relation": "FootballerPlaysPosition", "ObjectEntities": ["wing half"]}
+{"SubjectEntity": "Pablo Zabaleta", "Relation": "FootballerPlaysPosition", "ObjectEntities": ["fullback"]}
+{"SubjectEntity": "Isaac Cuenca", "Relation": "FootballerPlaysPosition", "ObjectEntities": ["midfielder", "wing half"]}
+{"SubjectEntity": "Gareth Southgate", "Relation": "FootballerPlaysPosition", "ObjectEntities": ["centre-back"]}
+{"SubjectEntity": "Gareth Southgate", "Relation": "FootballerPlaysPosition", "ObjectEntities": ["centre-back"]}
+{"SubjectEntity": "Juan Gabriel", "Relation": "PersonCauseOfDeath", "ObjectEntities": ["myocardial infarction"]}
+{"SubjectEntity": "Nichelle Nichols", "Relation": "PersonCauseOfDeath", "ObjectEntities": ["heart failure"]}
+{"SubjectEntity": "Hua Chunying", "Relation": "PersonCauseOfDeath", "ObjectEntities": [""]}
+{"SubjectEntity": "Paul Walker", "Relation": "PersonCauseOfDeath", "ObjectEntities": ["traffic collision"]}
+{"SubjectEntity": "M\u00e1rcio Garcia", "Relation": "PersonCauseOfDeath", "ObjectEntities": [""]}
+{"SubjectEntity": "Clive James", "Relation": "PersonHasAutobiography", "ObjectEntities": ["Unreliable Memoirs"]}
+{"SubjectEntity": "Chris Christie", "Relation": "PersonHasAutobiography", "ObjectEntities": ["Let Me Finish"]}
+{"SubjectEntity": "Mario Tobino", "Relation": "PersonHasAutobiography", "ObjectEntities": ["Sulla spiaggia e di l\u00e0 dal molo"]}
+{"SubjectEntity": "Karol Olgierd Borchardt", "Relation": "PersonHasAutobiography", "ObjectEntities": ["Znaczy Kapitan", "Kra\u031c\u017cownik spod Somosierry"]}
+{"SubjectEntity": "Carlos Brilhante Ustra", "Relation": "PersonHasAutobiography", "ObjectEntities": ["A Verdade Sufocada"]}
+{"SubjectEntity": "Jos\u00e9 Antonio Abell\u00e1n", "Relation": "PersonHasEmployer", "ObjectEntities": ["Cadena SER", "Cadena COPE"]}
+{"SubjectEntity": "Mich\u00e8le Laroque", "Relation": "PersonHasEmployer", "ObjectEntities": ["Europe 1"]}
+{"SubjectEntity": "Craig Murray", "Relation": "PersonHasEmployer", "ObjectEntities": ["Foreign", "Commonwealth and Development Office"]}
+{"SubjectEntity": "Chris Hadfield", "Relation": "PersonHasEmployer", "ObjectEntities": ["Canadian Space Agency"]}
+{"SubjectEntity": "Steven H. Strogatz", "Relation": "PersonHasEmployer", "ObjectEntities": ["Massachusetts Institute of Technology", "Cornell University"]}
+{"SubjectEntity": "Lee Dong-geon", "Relation": "PersonHasSpouse", "ObjectEntities": ["Jo Yoon-hee"]}
+{"SubjectEntity": "Giovanna Ewbank", "Relation": "PersonHasSpouse", "ObjectEntities": ["Bruno Gagliasso"]}
+{"SubjectEntity": "Jana Centeno", "Relation": "PersonHasSpouse", "ObjectEntities": ["Johnathon Schaech", "Mike Caussin", "Michael Pelligrino"]}
+{"SubjectEntity": "Rithvik Dhanjani", "Relation": "PersonHasSpouse", "ObjectEntities": ["Asha Negi"]}
+{"SubjectEntity": "Audy Item", "Relation": "PersonHasSpouse", "ObjectEntities": ["Iko Uwais"]}
+{"SubjectEntity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Relation": "CountryHasStates", "ObjectEntities": ["\u00c1gua Grande", "Lemb\u00e1", "Cantagalo", "Cau\u00e9", "Lobata", "M\u00e9-Z\u00f3chi", "Pr\u00edncipe Autonomous Region", "S\u00e3o Tom\u00e9 Province"]}
+{"SubjectEntity": "Niger", "Relation": "CountryHasStates", "ObjectEntities": ["Niamey", "Zinder Region", "Agadez Region", "Maradi Region", "Dosso Region", "Tillab\u00e9ri Region", "Tahoua Region", "Diffa Region"]}
+{"SubjectEntity": "Honduras", "Relation": "CountryHasStates", "ObjectEntities": ["Intibuc\u00e1 Department", "Santa B\u00e1rbara Department", "Atl\u00e1ntida Department", "Lempira Department", "Bay Islands Department", "Cort\u00e9s Department", "Comayagua Department", "Cop\u00e1n Department", "La Paz Department", "Ocotepeque Department", "Olancho Department", "Valle Department", "El Para\u00edso Department", "Gracias a Dios Department", "Col\u00f3n Department", "Francisco Moraz\u00e1n Department", "Choluteca Department", "Yoro Department"]}
+{"SubjectEntity": "Niger", "Relation": "CountryHasStates", "ObjectEntities": ["Niamey", "Zinder Region", "Agadez Region", "Maradi Region", "Dosso Region", "Tillab\u00e9ri Region", "Tahoua Region", "Diffa Region"]}
+{"SubjectEntity": "Kuwait", "Relation": "CountryHasStates", "ObjectEntities": ["Al Jahra Governorate", "Al Ahmadi Governorate", "Hawally", "Mubarak Al-Kabeer Governorate", "Capital Governorate", "Al Farwaniyah Governorate"]}
+{"SubjectEntity": "Nonadecane", "Relation": "CompoundHasParts", "ObjectEntities": ["carbon", "hydrogen"]}
+{"SubjectEntity": "Harmine", "Relation": "CompoundHasParts", "ObjectEntities": ["carbon", "nitrogen", "hydrogen", "oxygen"]}
+{"SubjectEntity": "Dodecane", "Relation": "CompoundHasParts", "ObjectEntities": ["carbon", "hydrogen"]}
+{"SubjectEntity": "Hydrogen Bromide", "Relation": "CompoundHasParts", "ObjectEntities": ["hydrogen", "bromine"]}
+{"SubjectEntity": "Potassium Hydroxide", "Relation": "CompoundHasParts", "ObjectEntities": ["potassium", "hydrogen", "oxygen"]}
