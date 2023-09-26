@@ -1,5 +1,6 @@
 # LLMKE
-Code for ISWC LM-KBC 2023 Challenge from Team KCL.
+The implementation of the winning system for Track 2 of the [ISWC LM-KBC 2023 Challenge](https://lm-kbc.github.io/challenge2023/). 
+- Our report paper: [Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata](https://arxiv.org/abs/2309.08491).
 
 ## Files
 
@@ -82,3 +83,25 @@ python main.py -t evaluate -d <dataset> -m <model> -s <setting> -p <prompt> -w -
 - Wikidata Qnode disambiguator
   - Relations need to be systematically improved: **BandHasMember**, **StateBordersState** 
   - Relations with several cases: CityLocatedAtRiver, CountryHasOfficialLanguage, PersonHasAutobiography, PersonHasSpouse
+
+## Cite
+```
+@article{zhang-et-al-2023-llmke,
+  author       = {Bohui Zhang and
+                  Ioannis Reklos and
+                  Nitisha Jain and
+                  Albert Mero{\~{n}}o{-}Pe{\~{n}}uela and
+                  Elena Simperl},
+  title        = {{Using Large Language Models for Knowledge Engineering (LLMKE): A Case Study on Wikidata}},
+  journal      = {CoRR},
+  volume       = {abs/2309.08491},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2309.08491},
+  doi          = {10.48550/arXiv.2309.08491},
+  eprinttype   = {arXiv},
+  eprint       = {2309.08491},
+  timestamp    = {Fri, 22 Sep 2023 12:57:22 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2309-08491.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+```
