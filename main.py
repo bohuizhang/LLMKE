@@ -10,7 +10,7 @@ from pipeline.run import run
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Evaluate Precision, Recall and F1-score of predictions"
+        description="Arguments of input for task functions"
     )
 
     parser.add_argument(
@@ -19,7 +19,8 @@ def main():
         type=str,
         default="run",
         choices=["run", "evaluate", "disambiguate"],
-        required=True
+        required=True,
+        help="Task"
     )
     parser.add_argument(
         "-d",
@@ -35,7 +36,7 @@ def main():
         default="gpt-3.5-turbo",
         type=str,
         required=True,
-        help="Predictions (output) file"
+        help="Model"
     )
     parser.add_argument(
         "-s",
@@ -44,7 +45,7 @@ def main():
         type=str,
         choices=['zero-shot', 'few-shot', 'context', 'sem-sim'],
         required=True,
-        help="Prompt setting"
+        help="Probing setting"
     )
     parser.add_argument(
         "-p",
@@ -60,14 +61,14 @@ def main():
         "--relation",
         type=str,
         required=True,
-        help="Relation if only evaluate a specific relation (optional)"
+        help="Relation"
     )
     parser.add_argument(
         "-c",
         "--compare",
         action="store_true",
         required=False,
-        help="Display the difference if True (optional)"
+        help="Display the difference if True when evaluation (optional)"
     )
     parser.add_argument(
         "-w",
