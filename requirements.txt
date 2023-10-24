@@ -1,0 +1,14 @@
+openai
+tenacity
+pandas
+scikit-learn
+torch
+wget
+wikipedia
+beautifulsoup4
+seaborn
+matplotlib
+prettytable
+sparqlwrapper
+numpy
+sentence-transformers

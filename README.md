@@ -34,6 +34,7 @@ The implementation of the winning system for Track 2 of the [ISWC LM-KBC 2023 Ch
 ├── predictions.zip
 ├── question-prompts.json
 ├── README.md 
+├── requirements.txt
 └── sparql_query.py 
 ```
 For detailed results, please refer to the spreadsheet [here](https://docs.google.com/spreadsheets/d/1hIaJ96g8K0lLvlS2CP5wszSWQg54ms7hFvWodfipAOQ/edit?usp=sharing).
@@ -44,6 +45,12 @@ You need an OpenAI API key to run this pipeline. You can paste your API key into
 
 ```shell
 cd LLMKE
+```
+
+Set up requirements:
+
+```shell
+pip install -r requirements.txt
 ```
 
 ```shell
