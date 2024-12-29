@@ -1,14 +1,5 @@
+gradio
 openai
-tenacity
-pandas
-scikit-learn
-torch
-wget
-wikipedia
-beautifulsoup4
-seaborn
-matplotlib
-prettytable
+ollama
+rdflib
 sparqlwrapper
-numpy
-sentence-transformers
